@@ -11,9 +11,3 @@ Run this locally with jekyll serve --baseurl=
 ## Theme
 
 We are using the [Time Machine Theme](https://github.com/pages-themes/time-machine) from @benbalter.
-
-## Inspiration
-
-The concept comes from an [episode of Ruby Rogues](https://devchat.tv/ruby-rogues/243-rr-books-that-arent-poodr) where @jessitron talks about having a paper's reading club at work.
-Also inspired by the @papers-we-love [Meet-up Group](http://paperswelove.org/). 
-Website idea from @nylas.
