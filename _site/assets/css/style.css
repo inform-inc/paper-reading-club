@@ -313,9 +313,9 @@ footer .owner p a { font-size: 16px; font-style: italic; }
 
 .nav-list-item { flex: 0 1 100px; }
 
-h1.title { font-style: normal; font-size: 40px; }
+h1.title { font-style: normal; font-size: 40px; font-family: inherit; }
 
-body { background: #edf0f4; }
+body { background: #edf0f4; font-family: Futura, Trebuchet MS, Arial, sans-serif; }
 
 .download-bar, footer .owner { background: #88c2ea; }
 

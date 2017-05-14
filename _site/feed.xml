@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 13 May 2017 23:35:50 -0700</pubDate>
-    <lastBuildDate>Sat, 13 May 2017 23:35:50 -0700</lastBuildDate>
+    <pubDate>Sat, 13 May 2017 23:53:35 -0700</pubDate>
+    <lastBuildDate>Sat, 13 May 2017 23:53:35 -0700</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
     
       <item>
@@ -161,6 +161,171 @@ Tools that help analysts to use their expertise most effectively enable reliable
         <pubDate>Wed, 15 Feb 2017 11:00:00 -0800</pubDate>
         <link>http://localhost:4000/papers/2017/02/15/understanding-csrf.html</link>
         <guid isPermaLink="true">http://localhost:4000/papers/2017/02/15/understanding-csrf.html</guid>
+        
+        
+        <category>papers</category>
+        
+      </item>
+    
+      <item>
+        <title>Defining Gamification - A Service Marketing Perspective</title>
+        <description>&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
+
+&lt;p&gt;This week, we’re reading a paper on “Gamification”. It seems like a catch-all term to mean so many different things, including our new release for Wordpress community. Let’s define it by reading this paper, “Defining Gamification - A Service Marketing Perspective”.&lt;/p&gt;
+
+&lt;h2 id=&quot;paper-and-resources&quot;&gt;Paper and Resources&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.rolandhubscher.org/courses/hf765/readings/p17-huotari.pdf&quot;&gt;Paper&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;notes&quot;&gt;Notes&lt;/h2&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;TBA&lt;/code&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 08 Feb 2017 11:00:00 -0800</pubDate>
+        <link>http://localhost:4000/papers/2017/02/08/marketing-gamefication.html</link>
+        <guid isPermaLink="true">http://localhost:4000/papers/2017/02/08/marketing-gamefication.html</guid>
+        
+        
+        <category>papers</category>
+        
+      </item>
+    
+      <item>
+        <title>Simple Testing Can Prevent Most Critical Failures: An Analysis of Production Failures in Distributed Data-intensive Systems</title>
+        <description>&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
+
+&lt;p&gt;This week’s paper is a random selection. It’s as random as a human can extract random from a pile of papers.&lt;/p&gt;
+
+&lt;p&gt;Here’s the title:&lt;br /&gt;
+“Simple Testing Can Prevent Most Critical Failures: An Analysis of Production Failures in Distributed Data-intensive Systems”&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;We found the majority of catastrophic failures could easily have been prevented by performing simple testing on error handling code – the last line of defense – even without an understanding of the software design.
+We extracted three simple rules from the bugs that have lead to some of the catastrophic failures, and developed a static checker, Aspirator, capable of locating these bugs.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;We can overlook the Aspirator tool and extract out the nuggets, I think. Or yell at me on Wednesday.&lt;/p&gt;
+
+&lt;h2 id=&quot;paper-and-resources&quot;&gt;Paper and Resources&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-yuan.pdf&quot;&gt;Paper&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;notes&quot;&gt;Notes&lt;/h2&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;TBA&lt;/code&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 25 Jan 2017 11:00:00 -0800</pubDate>
+        <link>http://localhost:4000/papers/2017/01/25/testing-critical-failures.html</link>
+        <guid isPermaLink="true">http://localhost:4000/papers/2017/01/25/testing-critical-failures.html</guid>
+        
+        
+        <category>papers</category>
+        
+      </item>
+    
+      <item>
+        <title>Event Loop + Web Browsers internals</title>
+        <description>&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
+
+&lt;h3 id=&quot;event-loop&quot;&gt;Event Loop&lt;/h3&gt;
+
+&lt;p&gt;Javascript on the browser is single threaded. What does that mean in the larger context of web performance and Inform products? Technical&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Video: What the heck is the Event Loop anyways? by Philip Roberts ~20mins&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;web-browsers-internal&quot;&gt;Web Browsers Internal&lt;/h3&gt;
+
+&lt;p&gt;How does a web browser work internally? This is a quick primer to get everyone up to speed. Non-technical&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Very short and concise article: https://varvy.com/pagespeed/display.html ~5mins&lt;/li&gt;
+  &lt;li&gt;Video: How Browsers Work Internally by Tali Garsiel ~20mins&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Please watch at least one of the videos before coming. If you only have time to view one thing, watch the video on “How Browsers Work Internally”. Come with questions or be ready to share what you’ve learned about this.&lt;/p&gt;
+
+&lt;p&gt;I will not be presenting on this, but I will drive the conversation. I’ll keep it informal and I hope everyone takes away something, even if you know all of this already.&lt;/p&gt;
+
+&lt;h2 id=&quot;paper-and-resources&quot;&gt;Paper and Resources&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://varvy.com/pagespeed/display.html&quot;&gt;Web Browser Internal Paper&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;notes&quot;&gt;Notes&lt;/h2&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;TBA&lt;/code&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 20 Dec 2016 11:00:00 -0800</pubDate>
+        <link>http://localhost:4000/papers/2016/12/20/event-loop-intro.html</link>
+        <guid isPermaLink="true">http://localhost:4000/papers/2016/12/20/event-loop-intro.html</guid>
+        
+        
+        <category>papers</category>
+        
+      </item>
+    
+      <item>
+        <title>Programmatic and RTB Challenges and Opportunities</title>
+        <description>&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
+
+&lt;p&gt;Hi Palo Alto Team,&lt;/p&gt;
+
+&lt;p&gt;In two weeks, we will review an Ad Tech white paper. Ramesh proposed this one, so he will be moderating this week’s “Papers We Love” discussion. I’m creating this one early because I don’t know how to schedule emails (Rachel, help me).&lt;/p&gt;
+
+&lt;p&gt;Paper: Programmatic and RTB Challenges and Opportunities (Attached)&lt;/p&gt;
+
+&lt;p&gt;This paper is much more business focused than technical, so I’m inviting the whole office.&lt;/p&gt;
+
+&lt;p&gt;We will have the discussion over lunch.&lt;/p&gt;
+
+&lt;h2 id=&quot;paper-and-resources&quot;&gt;Paper and Resources&lt;/h2&gt;
+
+&lt;!-- - [Web Browser Internal Paper](https://varvy.com/pagespeed/display.html) --&gt;
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;TBA&lt;/code&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;notes&quot;&gt;Notes&lt;/h2&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;TBA&lt;/code&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 06 Jul 2016 12:00:00 -0700</pubDate>
+        <link>http://localhost:4000/papers/2016/07/06/programmatic-ads.html</link>
+        <guid isPermaLink="true">http://localhost:4000/papers/2016/07/06/programmatic-ads.html</guid>
+        
+        
+        <category>papers</category>
+        
+      </item>
+    
+      <item>
+        <title>Serverless Architectures</title>
+        <description>&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
+
+&lt;p&gt;I started a paper reading meeting every week for the past month in the Palo Alto office. I have loved our discussions so much, I would like to extend this over to the rest of our team. Each week, I choose a moderator to choose the topic and a paper and send out details Monday. On Wednesday we have our discussion around noonish PST.&lt;/p&gt;
+
+&lt;p&gt;Paper reading is an informal discussion around a piece of writing, may it be an academic paper or a popular blog post. Topics have included password hashing and how Word2Vec works. There is no powerpoint, no live coding, and no formal lectures.&lt;/p&gt;
+
+&lt;p&gt;Let me know if you’re interested. I will send you an invite to our calendar event. This week, Ayush will be moderating a discussion around “Serverless Architectures” based off the blog post of the same name on Martin Fowler’s website.&lt;/p&gt;
+
+&lt;h2 id=&quot;paper-and-resources&quot;&gt;Paper and Resources&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://martinfowler.com/articles/serverless.html&quot;&gt;Blog Post from Martin Fowler&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;notes&quot;&gt;Notes&lt;/h2&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;TBA&lt;/code&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 29 Jun 2016 12:00:00 -0700</pubDate>
+        <link>http://localhost:4000/papers/2016/06/29/serverless-architecture.html</link>
+        <guid isPermaLink="true">http://localhost:4000/papers/2016/06/29/serverless-architecture.html</guid>
         
         
         <category>papers</category>

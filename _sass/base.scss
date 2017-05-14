@@ -12,10 +12,12 @@
 h1.title {
   font-style: normal;
   font-size: 40px;
+  font-family: inherit;
 }
 
 body {
   background: $background-color;
+  font-family: $base-font-family;
 }
 
 .download-bar,
