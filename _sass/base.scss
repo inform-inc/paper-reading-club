@@ -1,0 +1,33 @@
+.nav-list {
+  list-style: none;
+  display: flex;
+  width: 50%;
+}
+
+.nav-list-item {
+  flex: 0 1 100px;
+}
+
+// Overrides
+h1.title {
+  font-style: normal;
+  font-size: 40px;
+}
+
+body {
+  background: $background-color;
+}
+
+.download-bar,
+footer .owner {
+  background: $color-primary-blue;
+}
+
+a {
+  color: $color-primary-black;
+
+  &:hover {
+    color: darken($color-primary-black, 50%);
+    text-decoration: none;
+  }
+}
