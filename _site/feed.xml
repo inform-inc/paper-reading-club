@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Paper Reading Club</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+    <description>The papers reading club is a weekly meeting at Inform to discuss a paper, or blogs, or whitepapers.
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 13 May 2017 22:22:25 -0700</pubDate>
-    <lastBuildDate>Sat, 13 May 2017 22:22:25 -0700</lastBuildDate>
+    <pubDate>Sat, 13 May 2017 22:45:17 -0700</pubDate>
+    <lastBuildDate>Sat, 13 May 2017 22:45:17 -0700</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
     
       <item>
@@ -35,6 +35,44 @@
         <category>jekyll</category>
         
         <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Facebook Prophet</title>
+        <description>&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
+
+&lt;p&gt;We’re finally doing the paper from Facebook.&lt;/p&gt;
+
+&lt;p&gt;Facebook released a paper last month about creating forecasting services at scale.&lt;/p&gt;
+
+&lt;p&gt;Abstract:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;There are a variety of challenges that come with producing a large number of forecasts across a variety time series.
+Our approach to forecasting at scale is a combination of configurable models and thorough analyst-in-the-loop performance analysis.
+We present a forecasting approach based on a decomposable model with interpretable parameters that can be intuitively adjusted by the analyst.
+We describe performance analysis that we use compare and evaluate forecasting procedures, as well as automatically flag forecasts for manual review and adjustment.
+Tools that help analysts to use their expertise most effectively enable reliable forecasting of a large variety of business time series.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;paper-and-resources&quot;&gt;Paper and Resources&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://facebookincubator.github.io/prophet/static/prophet_paper_20170113.pdf&quot;&gt;Paper&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/facebookincubator/prophet&quot;&gt;Prophet&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;notes&quot;&gt;Notes&lt;/h2&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;TBA&lt;/code&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 26 Apr 2017 12:00:00 -0700</pubDate>
+        <link>http://localhost:4000/papers/2017/04/26/facebook-prophet.html</link>
+        <guid isPermaLink="true">http://localhost:4000/papers/2017/04/26/facebook-prophet.html</guid>
+        
+        
+        <category>papers</category>
         
       </item>
     

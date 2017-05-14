@@ -1,0 +1,14 @@
+---
+layout: default
+---
+
+<div class="content post">
+  <h1 class="post-title">{{ page.title }}</h1>
+  <div class="post-date">
+      <time>{{ page.date | date: "%-d %b %Y" }}</time>
+  </div>
+
+  <p class="lead">{{ page.description }}</p>
+  
+  {{ content }}
+</div>
