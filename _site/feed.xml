@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 13 May 2017 23:24:07 -0700</pubDate>
-    <lastBuildDate>Sat, 13 May 2017 23:24:07 -0700</lastBuildDate>
+    <pubDate>Sat, 13 May 2017 23:30:45 -0700</pubDate>
+    <lastBuildDate>Sat, 13 May 2017 23:30:45 -0700</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
     
       <item>
@@ -70,6 +70,47 @@ Tools that help analysts to use their expertise most effectively enable reliable
         <pubDate>Wed, 26 Apr 2017 12:00:00 -0700</pubDate>
         <link>http://localhost:4000/papers/2017/04/26/facebook-prophet.html</link>
         <guid isPermaLink="true">http://localhost:4000/papers/2017/04/26/facebook-prophet.html</guid>
+        
+        
+        <category>papers</category>
+        
+      </item>
+    
+      <item>
+        <title>Streaming Media Expo</title>
+        <description>&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
+
+&lt;p&gt;This week’s paper is the sourcebook for Streaming Media Expo 2016.&lt;/p&gt;
+
+&lt;p&gt;Because there’s a ton of videos, this is my proposal: read only one article and share it with the rest of us.&lt;/p&gt;
+
+&lt;p&gt;Here’s your choices:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.streamingmedia.com/Articles/Editorial/Featured-Articles/Game-On-Television-Is-Going-Through-Revolutionary-Changes-109773.aspx&quot; target=&quot;_blank&quot;&gt;The State of Media and Entertainment By Troy Dreier&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;State of Enterprise Video By Tim Siglin&lt;/li&gt;
+  &lt;li&gt;The State of Live Video By Troy Dreier&lt;/li&gt;
+  &lt;li&gt;The State of Mobile Video By Paul Schmutzler and Tim Siglin&lt;/li&gt;
+  &lt;li&gt;The State of Education Video By Paul Riismandel&lt;/li&gt;
+  &lt;li&gt;The State of MPEG-DASH By Nicolas Weil&lt;/li&gt;
+  &lt;li&gt;The State of Video Codecs By Jan Ozer&lt;/li&gt;
+  &lt;li&gt;Streamticker By Tim Siglin&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;paper-and-resources&quot;&gt;Paper and Resources&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.streamingmedia.com/conferences/East2017/&quot;&gt;Event&lt;/a&gt;
+&lt;!-- - [Paper](https://facebookincubator.github.io/prophet/static/prophet_paper_20170113.pdf) --&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;notes&quot;&gt;Notes&lt;/h2&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;TBA&lt;/code&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 12 Apr 2017 12:00:00 -0700</pubDate>
+        <link>http://localhost:4000/papers/2017/04/12/streaming-media-expo.html</link>
+        <guid isPermaLink="true">http://localhost:4000/papers/2017/04/12/streaming-media-expo.html</guid>
         
         
         <category>papers</category>
